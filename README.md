@@ -103,7 +103,7 @@ Here are some ideas to get you started:
       </td>
       </td>
       <td align="center" width="96">
-        <img src="Android\Android Studio\caches\trunk-system\log\idea.log" width="48" height="48" alt="" />
+        <img src="https://AndroidStudio.dev/icons?i=AndriodStudio" width="48" height="48" alt="" />
       <br>AndroidStudio
       </td>
    
