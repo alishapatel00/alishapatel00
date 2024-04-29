@@ -1,6 +1,6 @@
 # Hi! I'm Alisha patel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt="chavi362"  /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt=alishapatel00"  /></a> </p>
 
 
 <!--
@@ -101,6 +101,10 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
+      </td>
+      <td align="center" width="96">
+        <img src="Android\Android Studio\caches\trunk-system\log\idea.log" width="48" height="48" alt="" />
+      <br>AndroidStudio
       </td>
    
   
